@@ -1,4 +1,4 @@
-package com.bw.movie.utif;
+package com.bw.movie.utils;
 
 import android.os.Handler;
 import android.os.Message;
